@@ -1,0 +1,11 @@
+C:\Users\Cortez\source\repos\POO_28_09\POO_28_09\bin\Debug\netcoreapp3.1\POO_28_09.exe
+C:\Users\Cortez\source\repos\POO_28_09\POO_28_09\bin\Debug\netcoreapp3.1\POO_28_09.deps.json
+C:\Users\Cortez\source\repos\POO_28_09\POO_28_09\bin\Debug\netcoreapp3.1\POO_28_09.runtimeconfig.json
+C:\Users\Cortez\source\repos\POO_28_09\POO_28_09\bin\Debug\netcoreapp3.1\POO_28_09.runtimeconfig.dev.json
+C:\Users\Cortez\source\repos\POO_28_09\POO_28_09\bin\Debug\netcoreapp3.1\POO_28_09.dll
+C:\Users\Cortez\source\repos\POO_28_09\POO_28_09\bin\Debug\netcoreapp3.1\POO_28_09.pdb
+C:\Users\Cortez\source\repos\POO_28_09\POO_28_09\obj\Debug\netcoreapp3.1\POO_28_09.csprojAssemblyReference.cache
+C:\Users\Cortez\source\repos\POO_28_09\POO_28_09\obj\Debug\netcoreapp3.1\POO_28_09.AssemblyInfoInputs.cache
+C:\Users\Cortez\source\repos\POO_28_09\POO_28_09\obj\Debug\netcoreapp3.1\POO_28_09.AssemblyInfo.cs
+C:\Users\Cortez\source\repos\POO_28_09\POO_28_09\obj\Debug\netcoreapp3.1\POO_28_09.dll
+C:\Users\Cortez\source\repos\POO_28_09\POO_28_09\obj\Debug\netcoreapp3.1\POO_28_09.pdb
