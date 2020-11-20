@@ -1,0 +1,11 @@
+C:\Users\Cortez\source\repos\POO_02_11 - Ex1\POO_02_11 - Ex1\bin\Debug\netcoreapp3.1\POO_02_11 - Ex1.exe
+C:\Users\Cortez\source\repos\POO_02_11 - Ex1\POO_02_11 - Ex1\bin\Debug\netcoreapp3.1\POO_02_11 - Ex1.deps.json
+C:\Users\Cortez\source\repos\POO_02_11 - Ex1\POO_02_11 - Ex1\bin\Debug\netcoreapp3.1\POO_02_11 - Ex1.runtimeconfig.json
+C:\Users\Cortez\source\repos\POO_02_11 - Ex1\POO_02_11 - Ex1\bin\Debug\netcoreapp3.1\POO_02_11 - Ex1.runtimeconfig.dev.json
+C:\Users\Cortez\source\repos\POO_02_11 - Ex1\POO_02_11 - Ex1\bin\Debug\netcoreapp3.1\POO_02_11 - Ex1.dll
+C:\Users\Cortez\source\repos\POO_02_11 - Ex1\POO_02_11 - Ex1\bin\Debug\netcoreapp3.1\POO_02_11 - Ex1.pdb
+C:\Users\Cortez\source\repos\POO_02_11 - Ex1\POO_02_11 - Ex1\obj\Debug\netcoreapp3.1\POO_02_11 - Ex1.csprojAssemblyReference.cache
+C:\Users\Cortez\source\repos\POO_02_11 - Ex1\POO_02_11 - Ex1\obj\Debug\netcoreapp3.1\POO_02_11 - Ex1.AssemblyInfoInputs.cache
+C:\Users\Cortez\source\repos\POO_02_11 - Ex1\POO_02_11 - Ex1\obj\Debug\netcoreapp3.1\POO_02_11 - Ex1.AssemblyInfo.cs
+C:\Users\Cortez\source\repos\POO_02_11 - Ex1\POO_02_11 - Ex1\obj\Debug\netcoreapp3.1\POO_02_11 - Ex1.dll
+C:\Users\Cortez\source\repos\POO_02_11 - Ex1\POO_02_11 - Ex1\obj\Debug\netcoreapp3.1\POO_02_11 - Ex1.pdb
