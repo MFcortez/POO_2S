@@ -1,0 +1,11 @@
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício\POO_16_11 - Exercício\bin\Debug\netcoreapp3.1\POO_16_11 - Exercício.exe
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício\POO_16_11 - Exercício\bin\Debug\netcoreapp3.1\POO_16_11 - Exercício.deps.json
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício\POO_16_11 - Exercício\bin\Debug\netcoreapp3.1\POO_16_11 - Exercício.runtimeconfig.json
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício\POO_16_11 - Exercício\bin\Debug\netcoreapp3.1\POO_16_11 - Exercício.runtimeconfig.dev.json
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício\POO_16_11 - Exercício\bin\Debug\netcoreapp3.1\POO_16_11 - Exercício.dll
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício\POO_16_11 - Exercício\bin\Debug\netcoreapp3.1\POO_16_11 - Exercício.pdb
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício\POO_16_11 - Exercício\obj\Debug\netcoreapp3.1\POO_16_11 - Exercício.csprojAssemblyReference.cache
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício\POO_16_11 - Exercício\obj\Debug\netcoreapp3.1\POO_16_11 - Exercício.AssemblyInfoInputs.cache
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício\POO_16_11 - Exercício\obj\Debug\netcoreapp3.1\POO_16_11 - Exercício.AssemblyInfo.cs
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício\POO_16_11 - Exercício\obj\Debug\netcoreapp3.1\POO_16_11 - Exercício.dll
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício\POO_16_11 - Exercício\obj\Debug\netcoreapp3.1\POO_16_11 - Exercício.pdb
