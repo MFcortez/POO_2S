@@ -1,0 +1,6 @@
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício 2\POO_16_11 - Exercício 2\bin\Debug\POO_16_11 - Exercício 2.exe.config
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício 2\POO_16_11 - Exercício 2\bin\Debug\POO_16_11 - Exercício 2.exe
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício 2\POO_16_11 - Exercício 2\bin\Debug\POO_16_11 - Exercício 2.pdb
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício 2\POO_16_11 - Exercício 2\obj\Debug\POO_16_11 - Exercício 2.csprojAssemblyReference.cache
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício 2\POO_16_11 - Exercício 2\obj\Debug\POO_16_11 - Exercício 2.exe
+C:\Users\Cortez\source\repos\POO_16_11 - Exercício 2\POO_16_11 - Exercício 2\obj\Debug\POO_16_11 - Exercício 2.pdb
